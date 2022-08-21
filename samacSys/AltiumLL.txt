@@ -1,0 +1,10 @@
+a715210@gmail.com
+sajadahh
+C:\Users\Ahmad Aziz\Downloads
+C:\Users\Ahmad Aziz\Documents\AltiumLL\SamacSys.SchLib
+C:\Users\Ahmad Aziz\Documents\AltiumLL\SamacSys.PcbLib
+0
+
+80
+True
+True
