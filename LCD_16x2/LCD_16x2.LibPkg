@@ -55,7 +55,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ISRTVGPA
 
 [Document2]
 DocumentPath=LCD_16x2.SchLib
@@ -72,7 +72,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AAIMGVWH
 
 [SearchPath1]
 Path=C:\AltiumLib\LCD_16x2\RC1602B-BIW-CSV\*.*
